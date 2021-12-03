@@ -1,0 +1,33 @@
+/*font-family: 'Dancing Script', cursive*/
+body{
+    background: url("Wallpaper.png");
+    background-size: cover;
+    color: rgb(101, 183, 255);
+    font-family: 'Red Hat Mono', monospace;
+}
+.dspeed{
+    float: left;
+    margin-left: 100px;
+    color: white;
+}
+.dvolume{
+    float: right;
+    margin-right: 100px;
+    color: white;
+}
+.note{
+    font-size: 20px;
+    color: rgb(198, 228, 255);
+}
+button{
+    background-color: #39050D;
+    color: yellow;
+    font-size: 25px;
+    margin-top: -40px;
+}
+img{
+    border-radius: 100px;
+}
+#volume{
+    background-color: rgba(0, 0, 0, 0.698);
+}
